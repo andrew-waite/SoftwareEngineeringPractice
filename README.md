@@ -1,2 +1,2 @@
 # SoftwareEngineeringPractice
-Simple website that pulls and stores data from a mysql database
+Simple website that pulls and stores data from a mariaDB database
