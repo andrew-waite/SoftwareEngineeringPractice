@@ -1,6 +1,9 @@
 # encoding=utf8
 # sep_utility.py
 
+# To set this up you need a SQL database to store the information
+# Fill out lines 12 through 17
+
 import mysql.connector
 import time
 import pprint

@@ -1,6 +1,10 @@
 # encoding=utf8
 # sep_imgur.py
 
+# Get your API key information from here
+# https://api.imgur.com/
+# See lines 18, and 19 to fill in information
+
 import imgurpython
 import datetime
 import sys
@@ -9,6 +13,7 @@ def run ():
 	
 	reload(sys)
 	sys.setdefaultencoding('utf8')
+	
 	
 	client_id = ""
 	client_secret = ""

@@ -1,6 +1,9 @@
 # encoding=utf8
 # sep_youtube.py
 
+# You will be prompted to log into your google account to use this
+# You do not need an API key, it makes it for you
+
 ############################################ Copied from youtube
 ## START BOILERPLATE CODE
 

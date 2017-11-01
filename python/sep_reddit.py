@@ -1,6 +1,10 @@
 # encoding=utf8
 # sep_reddit.py
 
+# Get your API information from here
+# https://praw.readthedocs.io/en/latest/getting_started/authentication.html
+# See lines 24 through 30 to fill in information
+
 import praw
 import pprint
 import sys

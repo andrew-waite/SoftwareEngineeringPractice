@@ -1,6 +1,10 @@
 # encoding=utf8
 # sep_twitter.py
 
+# Get your API information from here - You need a phone linked to a twitter again
+# https://developer.twitter.com/en/docs
+# See lines 18 through 22 to fill in information
+
 import twitter
 import pprint
 import json
